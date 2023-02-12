@@ -1,0 +1,1 @@
+web: gunicorn namManage.wsgi:application --log-file -
